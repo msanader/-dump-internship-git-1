@@ -11,8 +11,7 @@ namespace prva_igra
 
             Console.WriteLine("  |   |   ");
             Console.WriteLine("  | O |   ");
-            Console.WriteLine("X |   |   ");
-
+            Console.WriteLine("  |   | X ");
 
 
         }
