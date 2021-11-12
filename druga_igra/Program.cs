@@ -10,7 +10,7 @@ namespace druga_igra
             Console.WriteLine("Karlo ima 0 pobjeda i 1 poraza");
 
             Console.WriteLine("  | X | O ");
-            Console.WriteLine("O | X | X ");
+            Console.WriteLine("X | X | X ");
             Console.WriteLine("X | O | O ");
         }
     }
