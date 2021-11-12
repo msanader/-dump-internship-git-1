@@ -14,6 +14,7 @@ namespace prva_igra
             Console.WriteLine("X |   |   ");
 
 
+
         }
     }
 }
