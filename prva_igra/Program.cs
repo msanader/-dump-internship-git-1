@@ -10,7 +10,7 @@ namespace prva_igra
             Console.WriteLine("Karlo ima a pobjeda i b poraza");
 
             Console.WriteLine("  |   |   ");
-            Console.WriteLine("  |   |   ");
+            Console.WriteLine("  | X |   ");
             Console.WriteLine("  |   |   ");
 
 
