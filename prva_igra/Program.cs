@@ -6,16 +6,11 @@ namespace prva_igra
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mirna ima x pobjeda i y poraza");
-            Console.WriteLine("Karlo ima a pobjeda i b poraza");
+            Console.WriteLine("Mirna ima 0 pobjeda i 1 poraza");
+            Console.WriteLine("Karlo ima 1 pobjeda i 0 poraza");
 
-<<<<<<< HEAD
             Console.WriteLine("O | X | O ");
-            Console.WriteLine("  | X |   ");
-=======
-            Console.WriteLine("O |   | O ");
             Console.WriteLine("O | X |   ");
->>>>>>> main
             Console.WriteLine("O |   | X ");
 
 
