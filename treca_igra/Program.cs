@@ -10,7 +10,7 @@ namespace treca_igra
             Console.WriteLine("Karlo ima a pobjeda i b poraza");
 
             Console.WriteLine("  | X |   ");
-            Console.WriteLine("  |   | O ");
+            Console.WriteLine("  | X | O ");
             Console.WriteLine(" O|   |   ");
         }
     }
