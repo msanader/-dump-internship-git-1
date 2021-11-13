@@ -10,7 +10,7 @@ namespace druga_igra
             Console.WriteLine("Karlo ima a pobjeda i b poraza");
 
             Console.WriteLine("O |   | X ");
-            Console.WriteLine("  | O |   ");
+            Console.WriteLine("  | O | O ");
             Console.WriteLine("  |   | X ");
 
 

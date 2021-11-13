@@ -9,7 +9,7 @@ namespace prva_igra
             Console.WriteLine("Mirna ima x pobjeda i y poraza");
             Console.WriteLine("Karlo ima a pobjeda i b poraza");
 
-            Console.WriteLine("  |   | O ");
+            Console.WriteLine("O |   | O ");
             Console.WriteLine("  | X |   ");
             Console.WriteLine("O |   | X ");
 
